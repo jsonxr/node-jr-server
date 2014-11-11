@@ -1,0 +1,22 @@
+{
+  "name": "jr-server",
+  "version": "1.0.0",
+  "description": "node-jr-server ==============",
+  "main": "src/jr-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsonxr/node-jr-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsonxr/node-jr-server/issues"
+  },
+  "homepage": "https://github.com/jsonxr/node-jr-server",
+  "dependencies": {
+    "yargs": "^1.3.2"
+  }
+}
